@@ -1,4 +1,4 @@
-package org.srini.jeesamples.JMSIntegration;
+package org.srini.jeesamples.jmsintegration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
