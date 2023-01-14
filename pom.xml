@@ -16,6 +16,7 @@
 	</parent>
     <modules>
         <module>JMSIntegration</module>
+        <module>KafkaIntegration</module>
     </modules>
 
 </project>
